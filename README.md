@@ -2,6 +2,8 @@
 
 A non-official Plandomizer GUI for ZOoTR.
 
+You can access it with [this link](https://ootplandomizer.com)
+
 # Wait, what?
 
 Ok. Let's start from the beginning.
@@ -52,3 +54,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## LICENSE
+
+This reposity is GPL License. You can use this repository, but every modification must be published.

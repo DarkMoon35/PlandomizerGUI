@@ -2,13 +2,44 @@
 	<div>
 		<h1>Changelog</h1>
 		<br>
-		<h3>Todo list*</h3>
+<!--		<h3>Todo list*</h3>-->
+<!--		<ul>-->
+<!--			<li>Customization gossip hints</li>-->
+<!--		</ul>-->
+		<br>
+		<h3>VERSION 2.3.2<span class="badge badge-danger">New</span></h3>
 		<ul>
-			<li>Customization gossip hints</li>
+			<li>Add license information</li>
+			<li>Add link to github</li>
 		</ul>
-		<br>
-		<br>
-		<h3>VERSION 2.1.2<span class="badge badge-danger">New</span></h3>
+		<h3>VERSION 2.3.1</h3>
+		<ul>
+			<li>Fix some english mistakes</li>
+			<li>More space for gossip region</li>
+			<li>Fix bug when remove element hash, the "?" didn't appear</li>
+			<li>Change designation for barren item and major item.</li>
+		</ul>
+		<h3>VERSION 2.3.0</h3>
+		<ul>
+			<li>First version of gossip stones : You can insert hint for all gossips stones</li>
+			<li>Create two categories for all dungeons : child and adult</li>
+			<li>Remove "Usually" and replace to 3 categories : "Hash & Hints", "Stones & Medallions" and "Songs"</li>
+		</ul>
+		<h3>VERSION 2.2.1</h3>
+		<ul>
+			<li>Fix menu position, it was not same result as local</li>
+		</ul>
+		<h3>VERSION 2.2.0</h3>
+		<ul>
+			<li>Reworking css for responsiveness</li>
+			<li>This website can be used on mobile/tablet, it's responsive</li>
+		</ul>
+		<h3>VERSION 2.1.3</h3>
+		<ul>
+			<li>Add About page</li>
+			<li>Fix bottom buttons position</li>
+		</ul>
+		<h3>VERSION 2.1.2</h3>
 		<ul>
 			<li>New design for all select</li>
 			<li>Customization hash seed</li>
@@ -42,7 +73,9 @@
 		</ul>
 		<h3>VERSION BETA 2.0.2</h3>
 		<ul>
-			<li>Bugfix : If you fill a location with a blank item, it is removed of the list when you download the plando</li>
+			<li>Bugfix : If you fill a location with a blank item, it is removed of the list when you download the
+				plando
+			</li>
 		</ul>
 		<h3>VERSION BETA 2.0.1</h3>
 		<ul>
@@ -56,7 +89,7 @@
 </template>
 
 <script>
-export default {
-	name: "Changelog"
-}
+	export default {
+		name: "Changelog"
+	}
 </script>
